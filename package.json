@@ -1,0 +1,19 @@
+{
+  "name": "react-zip",
+  "version": "1.0.0",
+  "description": "Zip components together for easy composition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "utility",
+    "composition"
+  ],
+  "author": "Matthew Symonds <matthew.william.symonds@gmail.com> (http://matthewsymonds.github.io/)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "react": "^15.3.0"
+  }
+}
